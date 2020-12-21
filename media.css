@@ -1,0 +1,10 @@
+@media(max-width:400){
+
+    .container{
+
+    }
+    .card{
+        width:200px;
+        height: 205px;
+    }
+}
